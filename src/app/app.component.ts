@@ -2,7 +2,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-indext',
+  selector: 'app-root',
 
   template:'<app-hello></app-hello>,<app-index></app-index>'
 
